@@ -104,11 +104,9 @@ This creates a binary linear classifier.
 
 # Visualization
 
-This repository includes a visualization script located in:
+This repository includes a visualization:
 
-```
-visualization.py
-```
+![Result](visualization.png)
 
 The visualization generates a heatmap representing the learned weights.
 
