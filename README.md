@@ -134,26 +134,6 @@ project/
 
 ---
 
-# Example Output
-
-Training convergence:
-
-```
-Epoch 000 | Total error: 3
-Epoch 010 | Total error: 1
-Converged at epoch 17
-```
-
-Learned weights:
-
-```
-[0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
-```
-
-This confirms that the neuron learned to focus on the correct input feature.
-
----
-
 # Limitations
 
 This implementation demonstrates the fundamental mechanism of a neuron, but has important limitations:
@@ -164,26 +144,6 @@ This implementation demonstrates the fundamental mechanism of a neuron, but has 
 * Single neuron only
 
 Modern neural networks overcome these limitations by stacking many neurons into layers.
-
----
-
-# Educational Value
-
-This project demonstrates the core principles behind:
-
-* Artificial neurons
-* Linear models
-* Binary classification
-* Supervised learning
-* Parameter optimization
-* Decision boundaries
-
-These same principles scale to modern architectures such as:
-
-* Deep Neural Networks
-* Convolutional Networks
-* Transformers
-* Large Language Models
 
 ---
 
