@@ -1,3 +1,9 @@
+# Website to Improve Visualization and Testing
+
+[![Wiki Marcos](https://img.shields.io/badge/Wiki-Marcos-informational?style=flat-square)](https://marcoswiki.vercel.app/)
+
+This website allows training and provides test visualization at the end.
+
 # Neuron from Scratch
 
 This project implements a single artificial neuron (Perceptron) from scratch using pure Python, without relying on external machine learning libraries.
